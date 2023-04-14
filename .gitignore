@@ -1,0 +1,11 @@
+#node modules
+node_modules
+
+#parcel
+.parcel-cache
+
+dist
+.idea
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
