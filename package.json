@@ -4,8 +4,8 @@
   "description": "",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "dev": "parcel src/index.html",
-    "build": "parcel build src/index.html"
+    "dev": "node api.js && parcel src/index.html",
+    "build": "node api.js && parcel build src/index.html"
   },
   "keywords": [],
   "author": "",
